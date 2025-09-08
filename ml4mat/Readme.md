@@ -2,3 +2,5 @@
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chiku-parida/ai4mat_usecase/blob/main/ml4mat/ml4mat2025summerschool.ipynb)
+
+Click the **Colab** button. This will open the notebook file in your collab browser then save a copy to your drive and start working.
