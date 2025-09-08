@@ -5,4 +5,4 @@
 
 Click the **Colab** button. This will open the notebook file in your collab browser then save a copy to your drive and start working.
 
-[![save_a_copy](./ml4mat/save_a_copy.jpg)]()
+[![save_a_copy](https://github.com/chiku-parida/ai4materials_and_chemistry/blob/main/ml4mat/save_a_copy.jpg)]
