@@ -1,0 +1,4 @@
+id,formula,system,bandgap_eV,structure_path
+ABO3_0001,SrTiO3,perovskite,3.2,data/structures/ABO3_0001.xyz
+ABO3_0002,BaZrO3,perovskite,5.0,data/structures/ABO3_0002.xyz
+ABO3_0003,LaAlO3,perovskite,5.6,data/structures/ABO3_0003.xyz
